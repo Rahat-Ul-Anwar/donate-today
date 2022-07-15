@@ -1,3 +1,208 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
 }
+ 
+
+h1{
+ 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 65px;
+line-height: 79px;
+text-align: center;
+
+color:white;
+}
+
+p{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #707070;
+
+text-align: center;
+}
+
+.btn{
+    width: 160px;
+    height: 56px;
+    padding: 16px 12px;
+    color:white;
+    background: #FF5959;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 550px;
+    
+}
+
+.first-section{
+    background-image: url('images/donation1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1440px;
+    height: 669px;
+    padding-top: 5px;
+   
+    
+}
+/*....................Donate Today section................ */
+h2{
+    text-align: center;
+}
+
+.first-div{
+
+    margin-top: 80px;;
+}
+
+.main-div{
+    display: flex;
+     margin-left: 200px;
+ 
+}
+
+.square{
+    width: 125px;
+    height: 123px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background: #FAFAFA;
+    border-radius: 5px;
+    color: #707070;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 36px;
+}
+
+
+.third-sec {
+   
+margin-top: 100px;
+
+
+}
+.third-class{
+    width:800px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+button {
+    width: 160px;
+    height: 56px;
+    background: #FF5959;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    padding: 16px 12px;
+    color:white;
+    border:#FF5959;
+    text-align: center;
+    margin-left: 320px;
+     
+
+}
+input{
+    width: 100%;
+    border: 1px solid #DADADA;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    text-align: center;
+    
+}
+
+ /*.............. our donation plan.............*/
+
+ .family{
+display: flex;
+margin-top: 50px;
+
+ 
+ }
+ .family-demand {
+    width: 340px;
+    height:332px;
+    padding: 20px;
+    margin-left: 30px;
+    text-align: center;
+ 
+    
+ }
+ #first{
+    background: rgba(79, 157, 166, 0.1);
+ }
+
+ #second{
+    background: rgba(255, 89, 89, 0.1);
+ }
+
+ #third{
+    background: #FFF4D6;
+ }
+
+ .family-demand >img {
+    width: 20%;
+    float: left;
+    display: block;
+ }
+
+ 
+
+ .family-demand > p {
+    float: left;
+    overflow: hidden;
+ }
+
+
+  /*.............. footer.............*/
+  .footer{
+    background: #0B0D17;
+    width: 1440px;
+    height: 177px;
+    margin-top: 50px;
+  }
+
+  
+.footer-class {
+
+    width: 300px;
+    height: 167px;
+    margin:  auto;
+    padding: 5px;
+    
+}
+  h4{
+  
+font-family: 'Lobster';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+ 
+color: #FF5959;
+  }
+
+  .footer-class > p{
+    color: #D9DBE1;
+    
+    font-size: 14px;
+    margin-right: 150px;
+  
+    
+    
+  }
+  
